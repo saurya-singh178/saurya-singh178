@@ -24,7 +24,7 @@
 ## 🛠️ Tools & Technologies
 
 ### Languages
-- C,C++,Python,SQL
+- C,C++ ,Python, SQL
 
 
 ## 🔭 What I'm Working Towards

@@ -12,7 +12,7 @@
 
 ## 🚀 Currently Learning
 
-- C Programming
+- C++ Programming
 - Programming Fundamentals
 - Git & GitHub
 - Problem Solving
@@ -25,6 +25,8 @@
 
 ### Languages
 - C,C++ ,Python, SQL
+### Web Development
+- HTML, CSS, Javascript
 
 
 ## 🔭 What I'm Working Towards

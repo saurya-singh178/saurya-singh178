@@ -47,8 +47,8 @@
 
 ## 🤝 Connect With Me
 
-- GitHub: [Your GitHub Username](https://github.com/YourUsername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YourLinkedIn)
+- GitHub: [saurya-singh178](https://github.com/saurya-singh178)
+- LinkedIn: [Saurya Singh] (https://www.linkedin.com/in/saurya-singh-b165b8427/)
 
 ---
 

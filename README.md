@@ -15,7 +15,7 @@
 - C++ Programming
 - Programming Fundamentals
 - Git & GitHub
-- Problem Solving
+- Problem Solving & DSA
 - Exploring AI & Machine Learning
 - Exploring Computer Graphics, System Design
 

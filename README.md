@@ -48,7 +48,7 @@
 ## 🤝 Connect With Me
 
 - GitHub: [saurya-singh178](https://github.com/saurya-singh178)
-- LinkedIn: [Saurya Singh] (https://www.linkedin.com/in/saurya-singh-b165b8427/)
+- LinkedIn: [Saurya Singh](https://www.linkedin.com/in/saurya-singh-b165b8427/)
 
 ---
 

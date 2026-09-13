@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**saurya-singh178/saurya-singh178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Saurya Singh
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI/ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning programming and building my foundations in Computer Science.
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Software Engineering, and Computer Graphics.
+
+---
+
+## 🚀 Currently Learning
+
+- C Programming
+- Programming Fundamentals
+- Git & GitHub
+- Problem Solving
+- Exploring AI & Machine Learning
+- Exploring Computer Graphics, System Design
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Languages
+- C
+- C++
+- Python
+- SQL
+
+
+## 🔭 What I'm Working Towards
+
+- Becoming a strong programmer
+- Building meaningful projects
+- Improving problem-solving skills
+- Exploring AI/ML and software engineering
+- Taking part in hackathons and coding communities.
+
+---
+
+## 📂 Projects
+
+> Projects coming soon... 🚀
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [Your GitHub Username](https://github.com/YourUsername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YourLinkedIn)
+
+---
+
+⭐ Thanks for visiting my profile!
